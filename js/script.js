@@ -117,6 +117,6 @@ document.addEventListener("keydown", (evento) => {
 });
 
 
-const VIDEO_URL = "C:/Users/joaov/OneDrive/Área de Trabalho/Portfolio_sfcpr/assets/video/video.mp4";
+const VIDEO_URL = "assets/video/Video.mp4";
 
 document.getElementById("video").href = VIDEO_URL;
