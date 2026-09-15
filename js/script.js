@@ -117,6 +117,6 @@ document.addEventListener("keydown", (evento) => {
 });
 
 
-const VIDEO_URL = assets/video/video.mp4;
+const VIDEO_URL = "assets/video/video.mp4";
 
 document.getElementById("video").href = VIDEO_URL;
